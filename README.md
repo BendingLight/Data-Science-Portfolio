@@ -50,6 +50,6 @@ Start Screen | Recent Screen
 <img src="https://github.com/BendingLight/Flutter-Xylophone/blob/master/Screenshots/Xylophone_home.png" width="200"> | <img src="https://github.com/BendingLight/Flutter-Xylophone/blob/master/Screenshots/Xylophone_recents.png" width="200">
 
 ### [Cliam](https://github.com/BendingLight/Flutter-Clima)
-* Exploratory project to display weather status with a dedicated emoji, Actually it was a 15 min challege from my brother.
+* Exploratory project to display weather status with a emoji, Actually it was a 15 min challege from my brother.
 * Getting device location across paltform and using [OpenWeatherMap - Current Weather API](https://openweathermap.org/current) to get climate Stauts.
  <img src="https://github.com/BendingLight/Flutter-Clima/blob/master/lib/screenshots/Clima_home.png" width="200">
